@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 [![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitesh-Tyagi)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Tyagi)](https://github.com/anuraghazra/github-readme-stats)
